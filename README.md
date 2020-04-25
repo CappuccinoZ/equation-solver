@@ -1,4 +1,4 @@
-# 方程求解器
+# 方程求解器 https://cappuccinoz.github.io/complex.html
 ## [C++](https://github.com/CappuccinoZ/Equation-solver/tree/master/ConsoleApp)|[C#](https://github.com/CappuccinoZ/Equation-solver/tree/master/WpfApp)
 ## [Releases](https://github.com/CappuccinoZ/Equation-solver/releases)
 * 一元五次方程求解（切线法）  
